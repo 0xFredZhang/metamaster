@@ -23,7 +23,7 @@ import store, { persistor } from './redux/store';
 import { AuthProtection } from './utils/auth';
 import { PersistGate } from 'redux-persist/integration/react';
 import { Amplify } from 'aws-amplify';
-// import awsconfig from './src/aws-exports';
+// import awsconfig from './src/aws-exports.json';
 
 // Amplify.configure(awsconfig);
 

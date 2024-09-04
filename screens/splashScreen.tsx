@@ -8,7 +8,7 @@ import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from 'App';
 import LogoSVG from '@assets/logo_horizontal.svg';
 import { Auth } from 'aws-amplify';
-// import config from '../src/aws-exports';
+// import config from '../src/aws-exports.json';
 import api from '../utils/api';
 
 // Auth.configure(config);
