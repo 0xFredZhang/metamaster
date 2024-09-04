@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-metamaster-dev-142927-authRole",
+      "UnauthRoleArn": "arn:aws:iam::578741260233:role/amplify-metamaster-dev-142927-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::578741260233:role/amplify-metamaster-dev-142927-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-metamaster-dev-142927-deployment",
+      "UnauthRoleName": "amplify-metamaster-dev-142927-unauthRole",
+      "StackName": "amplify-metamaster-dev-142927",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:578741260233:stack/amplify-metamaster-dev-142927/b5f88380-da8d-11ed-ad1c-0287199b2b1c",
+      "AmplifyAppId": "d1ppa75eodpwra"
+    },
+    "categories": {
+      "auth": {
+        "metamaster77ca9346": {}
+      },
+      "storage": {
+        "MetaMasters3": {}
+      }
+    }
+  }
+}
