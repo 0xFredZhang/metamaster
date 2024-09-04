@@ -50,6 +50,8 @@
     "redux-persist": "^6.0.0"
   },
   "devDependencies": {
+    "@aws-amplify/backend": "^1.2.0",
+    "@aws-amplify/backend-cli": "^1.2.5",
     "@babel/core": "^7.20.0",
     "@babel/preset-env": "^7.20.0",
     "@babel/runtime": "^7.20.0",
